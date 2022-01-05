@@ -5,7 +5,7 @@
  **********************************/
 
 #include "Application.h"
-
+// for test
 void handler(int sig) {
 	void *array[10];
 	size_t size;
